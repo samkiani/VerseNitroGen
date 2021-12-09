@@ -11,8 +11,6 @@ A discord nitro generator + checker in py
 
 ・Just input how many codes you want to generate
 
-[Tutorial](https://www.youtube.com/c/DraKenCodeZ)
-
 ### About DraKenCodeZ
 
 **Hey! I'm DraKenCodeZ... I'm just a newbie coder who's learning python and likes to code discord.py... If you wanna use my projects then you can checkout my Github or Replit profile.**
