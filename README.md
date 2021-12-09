@@ -11,7 +11,7 @@ A discord nitro generator + checker in py
 
 ・Just input how many codes you want to generate
 
-[Tutorial](https://youtube.com/)
+[Tutorial](https://www.youtube.com/c/DraKenCodeZ)
 
 ### About DraKenCodeZ
 
