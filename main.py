@@ -2,7 +2,6 @@ import requests
 import os
 import random
 import string
-import keep_alive 
 
 class VerseGen:
 	
@@ -48,5 +47,3 @@ class VerseGen:
 ──────────────────────────
 Valid - {valid}
 Invalid - {invalid}""")		
-
-keep_alive.keep_alive()
